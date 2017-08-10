@@ -1,0 +1,6 @@
+# Ignore all of files without specified files
+/*
+!.gitignore
+!README.md
+!basicstats
+!*.py
